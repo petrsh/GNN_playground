@@ -25,7 +25,7 @@ Mini-batching is a technique employed in DL to enhance efficiency, reduce memory
 
 ### Interesting applications of GNN in single-cell
 
-GNNs have numerous use cases in biology and single-cell data analysis including imputation, clustering, dimensionality reduction, cell annotation, gene regulatory network inference, cell-cell communication and other applications such as drug target nomination. Here is a collection of interesting application that I’ve stumbled upon:
+GNNs have numerous use cases in biology and single-cell data analysis including imputation, clustering, dimensionality reduction, cell annotation, gene regulatory network inference, cell-cell communication and other applications such as drug target nomination. Here is a collection of interesting applications that I’ve stumbled upon:
 
 -	overview - Graph representation learning for single-cell biology https://www.sciencedirect.com/science/article/pii/S2452310021000329#bib56
 -	Graph Neural Networks for Multimodal Single-Cell Data Integration (https://arxiv.org/abs/2203.01884) - https://github.com/OmicsML/dance - this method won modality prediction in NeurIPS 2021 competition
