@@ -33,7 +33,7 @@ GNNs have numerous use cases in biology and single-cell data analysis including 
 -	Contextualizing protein representations using deep learning on protein networks and single-cell data – https://www.biorxiv.org/content/10.1101/2023.07.18.549602v1 This paper presents a flexible geometric DL approach trained on contextualized protein interaction networks to generate context-aware protein representations. The model can be used to nominate contextualized drug targets.
 	
 -	scGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Graph (https://arxiv.org/pdf/2008.03322.pdf)
--	Graining Insight into SARS-Cov-2 Infection and COVID-19 Severity Using Self-Supervised Edge Features and Graph Neural Network (https://arxiv.org/abs/2006.12971)
+-	Gaining Insight into SARS-Cov-2 Infection and COVID-19 Severity Using Self-Supervised Edge Features and Graph Neural Network (https://arxiv.org/abs/2006.12971)
 -	Cellograph: A Semi-supervised Approach to Analyzing Multi-condition Single-cell RNA Sequencing Data Using Graph Neural Networks (https://www.biorxiv.org/content/10.1101/2023.02.24.528672v1) – uses GNN to quantify the effects of perturbations in single cells
 -	Table 1 - list of recent approaches - Graph Neural Network approaches for single-cell data: A recent overview - https://arxiv.org/abs/2310.09561
 
