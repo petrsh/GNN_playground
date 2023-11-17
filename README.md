@@ -16,12 +16,12 @@ Useful [cheatsheet](https://pytorch-geometric.readthedocs.io/en/latest/cheatshee
 ### Aggregation
 GNN aggregation is pivotal for consolidating information gathered from neighboring nodes. Various aggregation functions, including summation or mean, determine how a node combines information from its neighbors. Additionally, attention mechanisms can be leveraged to upweight neighboring nodes, allowing the model to focus on more relevant information. The choice of the appropriate aggregation method can significantly impact the model's performance.
 
-(A principled approach to aggregations)[https://medium.com/@pytorch_geometric/a-principled-approach-to-aggregations-983c086b10b3] 
+[A principled approach to aggregations](https://medium.com/@pytorch_geometric/a-principled-approach-to-aggregations-983c086b10b3)
 
 ### Mini-batching
 Mini-batching is a technique employed in DL to enhance efficiency, reduce memory requirements, and facilitate scalability. For heterogenous GNN, we can use [hetogenous mini-batch graph sampling](https://arxiv.org/pdf/2003.01332.pdf). 
 
-(Useful discussion)[https://github.com/pyg-team/pytorch_geometric/discussions/6707] on num_samples and batch_size parameters.
+[Useful discussion](https://github.com/pyg-team/pytorch_geometric/discussions/6707) on num_samples and batch_size parameters.
 
 ### Interesting applications of GNN in single-cell
 
