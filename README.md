@@ -35,7 +35,6 @@ GNNs have numerous use cases in biology and single-cell data analysis including 
 -	scGNN: scRNA-seq Dropout Imputation via Induced Hierarchical Cell Similarity Graph (https://arxiv.org/pdf/2008.03322.pdf)
 -	Graining Insight into SARS-Cov-2 Infection and COVID-19 Severity Using Self-Supervised Edge Features and Graph Neural Network (https://arxiv.org/abs/2006.12971)
 -	Cellograph: A Semi-supervised Approach to Analyzing Multi-condition Single-cell RNA Sequencing Data Using Graph Neural Networks (https://www.biorxiv.org/content/10.1101/2023.02.24.528672v1) – uses GNN to quantify the effects of perturbations in single cells
--	Table 1 - list of recent approaches - Graph Neural Network approaches for single-cell data: A recent overview - https://arxiv.org/abs/2310.09561![image](https://github.com/petrsh/GNN_playground/assets/55283841/4d4cd0cd-7895-46c8-b82a-4b641d3fa3ab)
-
+-	Table 1 - list of recent approaches - Graph Neural Network approaches for single-cell data: A recent overview - https://arxiv.org/abs/2310.09561
 
 ### [Machine learning with graphs course](https://web.stanford.edu/class/cs224w/)
